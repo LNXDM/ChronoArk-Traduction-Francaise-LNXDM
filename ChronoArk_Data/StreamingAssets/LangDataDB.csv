@@ -3527,7 +3527,7 @@ Enemy/S2_Ballon_SubName,Text,,무엇이 들어있을까요?,Qu’y a-t-il dedans
 Enemy/S2_Ballon_name,Text,,깜짝 풍선,Ballon « Fête surprise »,ビックリ風船,炫光气球,炫光氣球
 Enemy/S2_BombClownBoss_EnemyStory,Text,,"핏빛 공원을 배회하는 폭탄 묘기의 달인. 여러 개의 폭탄을 사용한 폭탄 저글링은 그만의 트레이드 마크다. 자신의 공연이 방해받는 것을 가장 싫어하며, 관객의 환호성과 희생양의 고통에 찬 비명소리를 들으며 희열을 느낀다.",Un maître des tours de bombes qui arpente le Bloody Park. Sa marque de fabrique est son impressionnant numéro de jonglage avec des bombes. Il déteste qu’on perturbe son spectacle et se délecte des acclamations du public et des cris de ses victimes.,血みどろ遊園地を彷徨う爆弾技の達人。様々な爆弾で行われる爆弾ジャグリングは彼の専売特許。自分のパフォーマンスが邪魔されることを許さない。観客の歓声と犠牲者の悲鳴が彼の生きがい。,徘徊在血色公园的炸弹杂技表演大师。炸弹抛接球表演是他的独门绝技。最讨厌自己的演出受到干扰，从观众的欢呼和痛苦的悲鸣中获得快感。,徘徊在血色遊樂園的炸彈雜技表演大師。炸彈拋接球表演是他的獨門絕技。最討厭自己的演出受到干擾，從觀眾的歡呼和痛苦的悲鳴中獲得快感。
 Enemy/S2_BombClownBoss_SubName,Text,,죽여주는 폭탄마,Un poseur de bombes infernal,虐殺爆弾魔,致命的炸弹魔,致命的炸彈魔
-Enemy/S2_BombClownBoss_name,Text,,폭탄 광대,Clown poseur de bombes,爆弾クラウン,炸弹小丑,炸彈小丑
+Enemy/S2_BombClownBoss_name,Text,,폭탄 광대,Bomberman Clownesque,爆弾クラウン,炸弹小丑,炸彈小丑
 Enemy/S2_BoomBalloon_EnemyStory,Text,,"핏빛 공원 곳곳에서 볼 수 있는 화려한 풍선들이다. 겉보기엔 평범한 풍선처럼 보이지만, 풍선 안에 들어있는 것은 단순한 공기뿐이 아닐 수도 있다.","Des ballons colorés que l’on trouve partout dans le Bloody Park. Ils ressemblent à des ballons ordinaires, mais ils ne contiennent peut-être pas que de l’air.",血みどろ遊園地でよく見られる華麗な風船。見た目は普通の風船だが、中身は普通ではない可能性がある。,血色公园内随处可见的华丽的气球。外表看起来像普通的气球，但气球里面可能并不只有空气。,血色遊樂園內隨處可見的華麗的氣球。外表看起來像普通的氣球，但氣球裡面可能不只空氣。
 Enemy/S2_BoomBalloon_SubName,Text,,무엇이 들어있을까요?,Qu'y a-t-il dedans ?,何が入っているかな？,猜猜里面是什么？,猜猜裡面是什麼？
 Enemy/S2_BoomBalloon_name,Text,,폭발하는 풍선,Ballon explosif,爆発風船,爆炸气球,爆炸氣球
@@ -3542,7 +3542,7 @@ Enemy/S2_HealBallon_SubName,Text,,무엇이 들어있을까요?,Qu'y a-t-il deda
 Enemy/S2_HealBallon_name,Text,,회복 풍선,Ballon de guérison,回復風船,回血气球,回血氣球
 Enemy/S2_Horse_EnemyStory,Text,,"부서진 회전목마가 생명을 얻어 탄생했다. 미친 듯이 돌진하여 눈에 보이는 모든 것을 산산조각 낸다. 부딪힐 때마다 자신도 조금씩 부서져 가지만, 더 이상 달릴 수 없게 될 때까지 멈추지 않는다.","Un manège cassé qui a pris vie. Il percute et détruit tout ce qui se trouve sur son passage. Chaque fois qu’il heurte quelqu’un, il se détériore petit à petit. Cependant, il ne s’arrêtera jamais tant qu’il pourra encore fonctionner.",壊れた回転木馬が生命を得て誕生した。狂ったように突進し、視界に写るもの全てを粉砕する。ぶつかる度に自分も少しずつ壊れていくが、走れなくなるまで止まることはない。,破碎的旋转木马重获新生，疯狂冲锋将眼前的一切撞成碎片。每次冲撞的时候，自己也会一点点破碎，但它永远不会停止，直到再也无法奔跑。,破碎的旋轉木馬重獲新生，瘋狂衝鋒將眼前的一切撞成碎片。每次衝撞的時候，自己也會一點點破碎，但它永遠不會停止，直到再也無法奔跑。
 Enemy/S2_Horse_SubName,Text,,미친 회전목마,Manège fou,狂った回転木馬,疯狂的旋转木马,瘋狂的旋轉木馬
-Enemy/S2_Horse_name,Text,,돌진하는 목마,Cheval de bois en pleine charge,突進する木馬,冲锋木马,衝鋒木馬
+Enemy/S2_Horse_name,Text,,돌진하는 목마,Cheval de bois,突進する木馬,冲锋木马,衝鋒木馬
 Enemy/S2_HypnosisClown_name,Text,,최면광대,Clown hypnotiseur,催眠クラウン,催眠小丑,催眠小丑
 Enemy/S2_Joker_EnemyStory,Text,,"핏빛 공원을 거점으로 삼는 수상한 마술사. 마주친 사람마다 마술을 권한다. 얼핏 신사적인 남자로 보이지만, 간식 먹는 느낌으로 살인을 일삼는 위험인물이다.","Un magicien mystérieux qui se produit au Bloody Park. Il fait un tour de magie à toutes les personnes qu’il croise. À première vue, il semble être un gentleman, mais il est capable de commettre un meurtre aussi naturellement que de manger un en-cas.",血みどろ遊園地を拠点とする怪しい魔術師。出会ったばかりの人に魔術を見せてくれる紳士的な人に見えるが、おやつ気分で殺人を行う危ない人物。,以血色公园为据点的奇怪的魔术师。劝说碰到的每个人看他的魔术。 虽然乍一看像绅士，但实际上是杀人如麻的危险人物。,以血色遊樂園為據點的奇怪的魔術師。推薦碰到的每個人看他的魔術。 雖然乍看像是紳士，但其實是殺人如麻的危險人物。
 Enemy/S2_Joker_SubName,Text,,악마의 재롱잔치,Le cirque du Diable,悪魔の遊戯会,恶魔的才艺表演,惡魔的才藝表演
@@ -3575,19 +3575,19 @@ Enemy/S2_Pharos_Warrior_SubName,Text,,호전적인 광신도,Fanatique belliqueu
 Enemy/S2_Pharos_Warrior_name,Text,,파로스 교단 전사,Guerrier de Pharos,パロス教戦士,法洛斯教团战士,法洛斯教團戰士
 Enemy/S2_Pierrot_Axe_EnemyStory,Text,,귀신의 집에서 뛰쳐나온 듯한 비주얼의 괴한. 머리의 호박은 가면이 아니라는 것 같다. 거대한 도끼를 마구잡이로 휘두르며 침입자를 처단하는 핏빛 공원의 파수꾼.,Un étrange monstre dont l’apparence semble tout droit sortie d’une maison hantée. On raconte que la citrouille sur sa tête n’est pas un masque. C’est un gardien du Parc Sanglant qui manie une hache géante et anéantit tout intrus.,お化け屋敷から飛び出してきたようなビジュアルの怪漢。頭のカボチャは仮面ではないらしい。巨大な斧を狂ったように振り回し、侵入者を排除する血みどろ遊園地の番人。,打扮得像是从鬼屋里跑出来的怪大叔。头上的南瓜好像并不是头套。挥舞巨大的斧头处决入侵者，是血色公园的守卫。,打扮得像是從鬼屋跑出來的怪大叔。頭上的南瓜好像不是面具。揮舞巨大的斧頭處決入侵者，是血色遊樂園的守衛。
 Enemy/S2_Pierrot_Axe_SubName,Text,,데스 할로윈,Halloween de la Mort,デスハロウィン,死亡万圣节,死亡萬聖節
-Enemy/S2_Pierrot_Axe_name,Text,,호박머리 거한,Géant à tête de citrouille,パンプキンジャイアント,南瓜头勇士,南瓜頭勇士
+Enemy/S2_Pierrot_Axe_name,Text,,호박머리 거한,Léguman Maléphique,パンプキンジャイアント,南瓜头勇士,南瓜頭勇士
 Enemy/S2_Pierrot_Ballon_EnemyStory,Text,,"수상한 미소와 함께 풍선을 나눠주고 다니는 광대 모습의 괴한. 풍선 안에 들어 있는 것이 무엇인지는, 터지기 전까지는 아무도 알 수 없다.","Un clown étrange au sourire suspect, muni d’un ballon. Personne ne sait ce que contient le ballon avant qu’il n’éclate.",怪しい笑顔で風船を配るピエロ。風船の中身は、弾けるまで誰にも分からない。,露出奇怪的微笑分发气球的小丑模样的怪大叔。在气球爆炸之前，谁也不知道气球起面装的是什么。,露出奇怪的微笑分送氣球的小丑模樣的怪大叔。在氣球爆炸之前，誰也不知道氣球裡面裝的是什麼。
 Enemy/S2_Pierrot_Ballon_SubName,Text,,미소 짓는 죽음,La Mort souriante,微笑む死,死亡的微笑,死亡的微笑
-Enemy/S2_Pierrot_Ballon_name,Text,,풍선 부는 광대,Bouffon au ballon,風船クラウン,吹气球的小丑,吹氣球的小丑
+Enemy/S2_Pierrot_Ballon_name,Text,,풍선 부는 광대,Gros Balloon Boy,風船クラウン,吹气球的小丑,吹氣球的小丑
 Enemy/S2_Pierrot_Bat_EnemyStory,Text,,사냥감을 찾아 핏빛 공원을 배회하는 광대 모습의 괴한. 찢어지는 듯한 웃음소리를 내며 한 번 점찍은 대상은 끝까지 쫓아가 피 묻은 배트로 끝장을 내버린다.,"Un clown errant dans le Bloody Park à la recherche d’une bonne proie. Il poursuit sa cible et l’achève à coups de batte ensanglantée, accompagné d’un rire sinistre.",獲物を探して血みどろ遊園地を彷徨うピエロ。狙いをつけたら最後、絶対に諦めない。耳が千切れるような狂笑と共に、血みどろバットで相手を始末する。,为了寻找猎物在血色公园徘徊的小丑模样的怪人。发出撕裂般的笑声，一旦盯上目标，无论如何都会追上去用带血的球棒击倒。,為了尋找獵物在血色遊樂園徘徊的小丑模樣的怪人。發出刺耳的笑聲，一旦盯上目標，無論如何都會追上去用帶血的球棒擊倒。
-Enemy/S2_Pierrot_Bat_SubName,Text,,유쾌한 학살자,Un charmant bourreau,愉快な虐殺者,愉快的屠杀者,愉快的屠殺者
-Enemy/S2_Pierrot_Bat_name,Text,,난폭한 광대,Bouffon enragé,乱暴クラウン,暴躁小丑,暴躁小丑
+Enemy/S2_Pierrot_Bat_SubName,Text,,유쾌한 학살자,Un charmant bourreau à belle perruque,愉快な虐殺者,愉快的屠杀者,愉快的屠殺者
+Enemy/S2_Pierrot_Bat_name,Text,,난폭한 광대,Madame le bouffon,乱暴クラウン,暴躁小丑,暴躁小丑
 Enemy/S2_PopcornGirl_EnemyStory,Text,,"핏빛 공원을 돌아다니며 팝콘을 튀기는 자그마한 판매원. 팝콘을 매우 좋아한다. 팝콘을 좋아하는 사람에게는 우호적이지만, 팝콘을 싫어하는 사람에게는 한없이 적대적이다. 자신의 팝콘을 맛있게 먹어준 사람을 발견하면 계속 쫓아다니며 팝콘을 나눠준다.","Une petite vendeuse qui arpente le Bloody Park en préparant du pop-corn, sa plus grande passion. 
 Elle est aimable avec tous ceux qui partagent son enthousiasme, mais devient extrêmement hostile envers ceux qui n’aiment pas ça. 
 Dès qu’elle repère quelqu’un qui apprécie son pop-corn, elle le suit sans relâche pour lui en offrir encore plus.",血みどろ遊園地をさ迷いながらポップコーンを揚げる販売員。ポップコーンが大好き。ポップコーンが好きな人には友好的だが、ポップコーンが嫌いな人には限りなく敵対する。自分のポップコーンを美味しく食べてくれた人を見つけると、ずっと追いかけてポップコーンを配ってくれる。,在血色公园里出售爆米花的少女，非常喜欢爆米花。对喜欢爆米花的人十分友好，但对不喜欢爆米花的人充满敌意。一旦发现有人喜欢吃自己做的爆米花，会一直在后面追着把爆米花分给他。,在血色遊樂園裡賣爆米花的少女，非常喜歡爆米花。對喜歡爆米花的人十分友好，但對不喜歡爆米花的人充滿敵意。一旦發現有人喜歡吃自己做的爆米花，會一直在後面追著把爆米花分給他。
 Enemy/S2_PopcornGirl_Enemy_name,Text,,임시,Temporaire,臨時,临时,臨時
-Enemy/S2_PopcornGirl_SubName,Text,,팝콘이 너무 좋아,Amoureuse du pop-corn,ポップコーンが大好き,超爱爆米花,超愛爆米花
-Enemy/S2_PopcornGirl_name,Text,,팝콘 소녀,La Fille au Pop-corn,ポップコーンガール,爆米花少女,爆米花少女
+Enemy/S2_PopcornGirl_SubName,Text,,팝콘이 너무 좋아,Amoureuse du Pop-corn,ポップコーンが大好き,超爱爆米花,超愛爆米花
+Enemy/S2_PopcornGirl_name,Text,,팝콘 소녀,La Popcorn-Girl,ポップコーンガール,爆米花少女,爆米花少女
 Enemy/S2_Shiranui_EnemyStory,Text,,"도깨비불을 다루는 요괴.
 태어나자마자 부모한테 버려져 인간의 손에서 자라났다.
 인간을 좋아하기 때문에 인간을 해하려 들지는 않지만, 정신 연령에 어울리지 않는 강력한 힘을 아무렇지 않게 다루기 때문에 충분한 주의가 필요하다.","Un yōkai qui manie le feu démoniaque. Abandonnée par ses parents à la naissance, elle a été élevée par des humains. 
@@ -3612,7 +3612,7 @@ Enemy/S3_Boss_Reaper_name,Text,,사신,Faucheuse,死神,死神,死神
 Enemy/S3_Boss_TheLight_Cross_name,Text,,불타는 십자가,Croix Ardente,燃える十字架,燃烧的十字架,燃燒的十字架
 Enemy/S3_Boss_TheLight_EnemyStory,Text,,"돌연 하얀 무덤에 나타난 수수께끼의 괴인. 자신을 빛 그 자체라고 여기고 있으며, 낙인찍은 대상을 자신과 같은 빛의 존재로 바꿔 버린다. 세상을 빛으로 가득 채우는 것이 목표. 사신과는 상극이며, 앙숙과도 같은 관계이다.","Un monstre mystérieux apparu soudainement dans le Cimetière Blanc. Il se considère comme l'incarnation de la lumière et transforme ceux qu'il marque en êtres de lumière à son image. Son objectif est de remplir le monde de lumière.
 C'est l'ennemi naturel de la Faucheuse, avec laquelle il entretient une rivalité acharnée.",突然白い墓地に現れた謎の怪人。自分を光そのものだと思っており、烙印を受けたものを自分と同じ存在に変える。世界を光で満たす事が目的。死神は宿敵と言える存在。,突然出现在白色墓地的神秘的怪人。认为自己就是光本身，会将打上印记的目标变成和自己一样的光的存在。她的目标是让世界充满光。和死神相克，可以说的死神的死对头。,突然出現在白色墓地的神秘的怪人。認為自己就是光本身，會將打上印記的目標變成和自己一樣的光的存在。她的目標是讓世界充滿光。和死神相剋，可以說的死神的死對頭。
-Enemy/S3_Boss_TheLight_SubName,Text,,빛이 된 존재,A Being of Light,光の存在,光的存在,光的存在
+Enemy/S3_Boss_TheLight_SubName,Text,,빛이 된 존재,Un être de lumière,光の存在,光的存在,光的存在
 Enemy/S3_Boss_TheLight_name,Text,,신성한 카라엘라,Karaela la Sacrée,ホーリーカラエラー,神圣卡洛尔,神聖卡洛爾
 Enemy/S3_Deathbringer_EnemyStory,Text,,"하얀 무덤을 돌아다니며 영혼을 거둬들이는 악마. 무덤에 들어온 사람이라면 산 자와 죽은 자를 가리지 않고 인도한다. 산 채로 영혼을 빼앗긴 사람은 살지도 죽지도 못하는 상태가 되어 버리므로, 인도자와 마주친다면 전력으로 도망치던가 그를 쓰러뜨리는 수밖에 없다.",Un démon qui erre dans le Cimetière Blanc pour récolter des âmes. Il s’en prend aussi bien aux vivants qu’aux morts qui pénètrent dans le cimetière. Quiconque se fait voler son âme par le Porteur de Mort se retrouve incapable de vivre ou de mourir. Vous devez donc fuir de toutes vos forces ou le vaincre dès que vous le rencontrez.,白い墓地を彷徨い、魂を刈り取る悪魔。白い墓地にいる者なら生死を問わず、その魂を狙って襲いかかる。魂を奪われた者は生きても死んでもいない状態になってしまう。彼と出会ってしまったら、全力で逃げるか、戦うかしかない。,游走在白色墓地收割灵魂的恶魔。只要是进入墓地的人，无论是生是死都难逃他的魔爪。被活着收走灵魂的人，变成不死不活的状态。如果碰到他，一定要尽全力逃跑，或者把他打倒。,遊走在白色墓地收割靈魂的惡魔。只要是進入墓地的人，無論是生是死都難逃他的魔爪。被活著收走靈魂的人，變成不死不活的狀態。如果碰到他，一定要盡力逃跑，或是把他打倒。
 Enemy/S3_Deathbringer_SubName,Text,,죽음의 이정표,Une étape vers la mort,死への道しるべ,死亡里程碑,死亡里程碑
