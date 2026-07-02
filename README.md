@@ -10,23 +10,9 @@
 
 ---
 
-## 📜 Historique
-
-### Version 1.0.1 (02/07/2026)
-
-#### ✨ Ajouts
-
-* Ajout des noms qui étaient absents lors de l'augmentation des relations.
-
-#### 🛠️ Corrections
-
-* Correction et amélioration des descriptions de plusieurs personnages.
-
----
-
 Bienvenue !
 
-Cette traduction française a été réalisée avec passion afin de permettre aux joueurs francophones de profiter pleinement de l'univers de Chrono Ark.
+Cette traduction française a été réalisée avec passion afin de permettre aux joueurs francophones de profiter pleinement de l'univers de **Chrono Ark**.
 
 ## 📥 Installation
 
@@ -57,3 +43,17 @@ Un immense merci à toutes les personnes qui téléchargeront et utiliseront cet
 Je vous souhaite à toutes et à tous un excellent jeu !
 
 — **Linux.DeMaestri**
+
+---
+
+# 📜 Historique des versions
+
+## Version 1.0.1 (02/07/2026)
+
+### ✨ Ajouts
+
+* Ajout des noms qui étaient absents lors de l'augmentation des relations.
+
+### 🛠️ Corrections
+
+* Correction et amélioration des descriptions de plusieurs personnages.
