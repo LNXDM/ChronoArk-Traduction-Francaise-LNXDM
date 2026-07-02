@@ -1222,7 +1222,7 @@ UI/Field/SelectTarget,Text,,"대상을 선택하세요
  <size=28>選択 キャンセル - ESC / <sprite name=Click>","请选择目标
   <size=28>取消选择 - ESC / <sprite name=Click>","請選擇目標
   <size=28>取消選擇 - ESC / <sprite name=Click>"
-UI/Field/StageName/1,Text,,안개 정원,Jardin des Brumes,霧の庭園,迷雾庭院,迷霧庭院
+UI/Field/StageName/1,Text,,안개 정원,Jardin Brumeux,霧の庭園,迷雾庭院,迷霧庭院
 UI/Field/StageName/2,Text,,핏빛 공원,Parc Sanglant,血みどろ遊園地,血色公园,血色遊樂園
 UI/Field/StageName/3,Text,,하얀 무덤,Cimetière Blanc,白い墓地,白色墓地,白色墓地
 UI/Field/StageName/Archive,Text,,아카이브,Archives,アーカイブ,档案馆,檔案
