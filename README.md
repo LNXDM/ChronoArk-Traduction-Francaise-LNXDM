@@ -1,12 +1,12 @@
 # 🇫🇷 Chrono Ark - Traduction Française
 
-## 🆕 Dernière mise à jour — Version 1.0.3 (02/07/2026)
+## 🆕 Dernière mise à jour — Version 1.0.4 (02/07/2026)
 
 ### 🛠️ Corrections
 
-* Correction de plusieurs noms de personnages.
-* Correction de problèmes de noms dans les dialogues.
-* Harmonisation de plusieurs appellations de personnages afin d'améliorer la cohérence de la traduction.
+* Uniformisation des noms des statistiques.
+* Harmonisation des abréviations de l'interface afin d'améliorer la lisibilité.
+* Correction de plusieurs libellés de statistiques.
 
 ---
 
@@ -47,6 +47,16 @@ Je vous souhaite à toutes et à tous un excellent jeu !
 ---
 
 # 📜 Historique des versions
+
+## Version 1.0.4 (02/07/2026)
+
+### 🛠️ Corrections
+
+* Uniformisation des noms des statistiques.
+* Harmonisation des abréviations de l'interface afin d'améliorer la lisibilité.
+* Correction de plusieurs libellés de statistiques.
+
+---
 
 ## Version 1.0.3 (02/07/2026)
 
