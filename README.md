@@ -1,5 +1,13 @@
 # 🇫🇷 Chrono Ark - Traduction Française
 
+## 🆕 Dernière mise à jour — Version 1.1.0+ (03/07/2026)
+
+### 🛠️ Corrections
+
+- Correction de **||Phoenix||** qui cache désormais son identité. *(Spoiler)*
+- Correction de la position des statistiques.
+- Correction de plusieurs textes mal formulés.
+
 ## 🆕 Dernière mise à jour — Version 1.1.0 (03/07/2026)
 
 ### ✨ Refonte majeure de la traduction
