@@ -1,12 +1,14 @@
 # 🇫🇷 Chrono Ark - Traduction Française
 
-## 🆕 Dernière mise à jour — Version 1.0.4 (02/07/2026)
+## 🆕 Dernière mise à jour — Version 1.0.5 (03/07/2026)
 
-### 🛠️ Corrections
+### 🛠️ Corrections majeures
 
-* Uniformisation des noms des statistiques.
-* Harmonisation des abréviations de l'interface afin d'améliorer la lisibilité.
-* Correction de plusieurs libellés de statistiques.
+* Correction importante de nombreux dialogues.
+* Révision complète des fichiers de traduction.
+* Correction d’anomalies causées par le script de traduction automatisé.
+* Comparaison approfondie entre les fichiers originaux et les fichiers traduits afin d’améliorer la fidélité des textes.
+* Grande refonte en cours de l’ensemble des fichiers pour améliorer la qualité globale de la traduction.
 
 ---
 
