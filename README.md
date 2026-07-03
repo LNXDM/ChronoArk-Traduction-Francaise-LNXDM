@@ -5,6 +5,8 @@
 ### 🛠️ Corrections majeures
 
 * Correction importante de nombreux dialogues.
+
+En cours pour la prochaine version 1.1.0
 * Révision complète des fichiers de traduction.
 * Correction d’anomalies causées par le script de traduction automatisé.
 * Comparaison approfondie entre les fichiers originaux et les fichiers traduits afin d’améliorer la fidélité des textes.
