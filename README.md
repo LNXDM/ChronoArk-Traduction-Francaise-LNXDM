@@ -60,17 +60,8 @@ Je vous souhaite à toutes et à tous un excellent jeu !
 
 — **Linux.DeMaestri**
 
----
 
 # 📜 Historique des versions
-
-## Version 1.0.4 (02/07/2026)
-
-### 🛠️ Corrections
-
-* Uniformisation des noms des statistiques.
-* Harmonisation des abréviations de l'interface afin d'améliorer la lisibilité.
-* Correction de plusieurs libellés de statistiques.
 
 ---
 
@@ -85,6 +76,16 @@ En cours pour la prochaine version 1.1.0
 * Correction d’anomalies causées par le script de traduction automatisé.
 * Comparaison approfondie entre les fichiers originaux et les fichiers traduits afin d’améliorer la fidélité des textes.
 * Grande refonte en cours de l’ensemble des fichiers pour améliorer la qualité globale de la traduction.
+
+---
+
+## Version 1.0.4 (02/07/2026)
+
+### 🛠️ Corrections
+
+* Uniformisation des noms des statistiques.
+* Harmonisation des abréviations de l'interface afin d'améliorer la lisibilité.
+* Correction de plusieurs libellés de statistiques.
 
 ---
 
