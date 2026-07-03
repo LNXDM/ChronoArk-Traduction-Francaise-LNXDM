@@ -1,16 +1,28 @@
 # 🇫🇷 Chrono Ark - Traduction Française
 
-## 🆕 Dernière mise à jour — Version 1.0.5 (03/07/2026)
+## 🆕 Dernière mise à jour — Version 1.1.0 (03/07/2026)
 
-### 🛠️ Corrections majeures
+### ✨ Refonte majeure de la traduction
 
-* Correction importante de nombreux dialogues.
+Cette mise à jour représente une importante révision de la traduction française de **Chrono Ark**.
 
-En cours pour la prochaine version 1.1.0
-* Révision complète des fichiers de traduction.
-* Correction d’anomalies causées par le script de traduction automatisé.
-* Comparaison approfondie entre les fichiers originaux et les fichiers traduits afin d’améliorer la fidélité des textes.
-* Grande refonte en cours de l’ensemble des fichiers pour améliorer la qualité globale de la traduction.
+### 🛠️ Corrections et améliorations
+
+* Révision complète de l'ensemble des fichiers de traduction (.csv).
+* Correction de nombreuses erreurs issues de la traduction automatisée.
+* Harmonisation des noms de personnages, compétences, objets, lieux et statistiques.
+* Correction de nombreuses descriptions et sous-descriptions.
+* Réécriture et amélioration de nombreux dialogues et textes d'interface.
+* Correction de plusieurs noms de personnages afin d'assurer une meilleure cohérence.
+* Correction du problème d'affichage des points de suspension (`...`) dans les fichiers concernés.
+* Comparaison approfondie avec les fichiers originaux afin d'améliorer la fidélité de la traduction.
+* Nombreuses corrections de formulation pour offrir une traduction plus naturelle et agréable à lire.
+
+### 🚧 En cours
+
+* Vérification manuelle continue de l'ensemble de la traduction.
+* Correction des dernières incohérences encore présentes.
+* Amélioration progressive de la qualité générale de la localisation française.
 
 ---
 
@@ -59,6 +71,20 @@ Je vous souhaite à toutes et à tous un excellent jeu !
 * Uniformisation des noms des statistiques.
 * Harmonisation des abréviations de l'interface afin d'améliorer la lisibilité.
 * Correction de plusieurs libellés de statistiques.
+
+---
+
+## Version 1.0.5 (03/07/2026)
+
+### 🛠️ Corrections majeures
+
+* Correction importante de nombreux dialogues.
+
+En cours pour la prochaine version 1.1.0
+* Révision complète des fichiers de traduction.
+* Correction d’anomalies causées par le script de traduction automatisé.
+* Comparaison approfondie entre les fichiers originaux et les fichiers traduits afin d’améliorer la fidélité des textes.
+* Grande refonte en cours de l’ensemble des fichiers pour améliorer la qualité globale de la traduction.
 
 ---
 
