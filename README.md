@@ -4,7 +4,7 @@
 
 ### 🛠️ Corrections
 
-- Correction de **||Phoenix||** qui cache désormais son identité. *(Spoiler)*
+- Correction d'un personnage en particulier.
 - Correction de la position des statistiques.
 - Correction de plusieurs textes mal formulés.
 
