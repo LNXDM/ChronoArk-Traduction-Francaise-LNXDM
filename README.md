@@ -1,36 +1,13 @@
 # 🇫🇷 Chrono Ark - Traduction Française
 
-## 🆕 Dernière mise à jour — Version 1.1.0+ (03/07/2026)
+## 🆕 Dernière mise à jour — Version 1.1.1 (04/07/2026)
 
 ### 🛠️ Corrections
 
-- Correction d'un personnage en particulier.
-- Correction de la position des statistiques.
-- Correction de plusieurs textes mal formulés.
-
-## 🆕 Dernière mise à jour — Version 1.1.0 (03/07/2026)
-
-### ✨ Refonte majeure de la traduction
-
-Cette mise à jour représente une importante révision de la traduction française de **Chrono Ark**.
-
-### 🛠️ Corrections et améliorations
-
-* Révision complète de l'ensemble des fichiers de traduction (.csv).
-* Correction de nombreuses erreurs issues de la traduction automatisée.
-* Harmonisation des noms de personnages, compétences, objets, lieux et statistiques.
-* Correction de nombreuses descriptions et sous-descriptions.
-* Réécriture et amélioration de nombreux dialogues et textes d'interface.
-* Correction de plusieurs noms de personnages afin d'assurer une meilleure cohérence.
-* Correction du problème d'affichage des points de suspension (`...`) dans les fichiers concernés.
-* Comparaison approfondie avec les fichiers originaux afin d'améliorer la fidélité de la traduction.
-* Nombreuses corrections de formulation pour offrir une traduction plus naturelle et agréable à lire.
-
-### 🚧 En cours
-
-* Vérification manuelle continue de l'ensemble de la traduction.
-* Correction des dernières incohérences encore présentes.
-* Amélioration progressive de la qualité générale de la localisation française.
+* Refonte de nombreux noms de compétences.
+* Renommage de nombreuses techniques, attaques, défenses et pouvoirs.
+* Harmonisation de la terminologie de la traduction.
+* Correction de plusieurs formulations et incohérences.
 
 ---
 
@@ -53,12 +30,12 @@ Glissez directement le dossier contenu dans l'archive ZIP dans le dossier du jeu
 ChronoArk_Data/StreamingAssets/
 ```
 
-3. Remplacez les fichiers existants lorsque cela est demandé.
+3. Remplacez les fichiers existants lorsqu'il vous le demande.
 4. Lancez le jeu et profitez de la traduction !
 
 ## ⚠️ Important
 
-Cette traduction est un projet réalisé par une fan et est régulièrement améliorée. Si vous rencontrez des erreurs, des fautes ou des textes encore en anglais, n'hésitez pas à les signaler afin de contribuer à son amélioration.
+Cette traduction est un projet réalisé par une fan et est régulièrement améliorée. Si vous rencontrez des erreurs, des fautes ou des textes encore en anglais, n'hésitez pas à les signaler.
 
 ## ❤️ Remerciements
 
@@ -68,8 +45,41 @@ Je vous souhaite à toutes et à tous un excellent jeu !
 
 — **Linux.DeMaestri**
 
-
 # 📜 Historique des versions
+
+---
+
+## Version 1.1.0+ (03/07/2026)
+
+### 🛠️ Corrections
+
+* Correction d'un personnage en particulier.
+* Correction de la position des statistiques.
+* Correction de plusieurs textes mal formulés.
+
+---
+
+## Version 1.1.0 (03/07/2026)
+
+### ✨ Refonte majeure de la traduction
+
+### 🛠️ Corrections
+
+* Révision complète des fichiers de traduction (.csv).
+* Correction de nombreuses erreurs de traduction.
+* Harmonisation des noms de personnages, compétences, objets, lieux et statistiques.
+* Correction de nombreuses descriptions et sous-descriptions.
+* Réécriture de nombreux dialogues et textes d'interface.
+* Correction de plusieurs noms de personnages.
+* Correction de l'affichage des points de suspension (`...`).
+* Comparaison avec les fichiers originaux afin d'améliorer la fidélité de la traduction.
+* Amélioration générale des formulations.
+
+### 🚧 En cours
+
+* Vérification manuelle de l'ensemble de la traduction.
+* Correction des dernières incohérences.
+* Amélioration continue de la localisation française.
 
 ---
 
@@ -80,10 +90,11 @@ Je vous souhaite à toutes et à tous un excellent jeu !
 * Correction importante de nombreux dialogues.
 
 En cours pour la prochaine version 1.1.0
+
 * Révision complète des fichiers de traduction.
-* Correction d’anomalies causées par le script de traduction automatisé.
-* Comparaison approfondie entre les fichiers originaux et les fichiers traduits afin d’améliorer la fidélité des textes.
-* Grande refonte en cours de l’ensemble des fichiers pour améliorer la qualité globale de la traduction.
+* Correction d'anomalies causées par le script de traduction automatisé.
+* Comparaison approfondie entre les fichiers originaux et les fichiers traduits afin d'améliorer la fidélité des textes.
+* Grande refonte en cours de l'ensemble des fichiers pour améliorer la qualité globale de la traduction.
 
 ---
 
@@ -92,7 +103,7 @@ En cours pour la prochaine version 1.1.0
 ### 🛠️ Corrections
 
 * Uniformisation des noms des statistiques.
-* Harmonisation des abréviations de l'interface afin d'améliorer la lisibilité.
+* Harmonisation des abréviations de l'interface.
 * Correction de plusieurs libellés de statistiques.
 
 ---
@@ -103,7 +114,7 @@ En cours pour la prochaine version 1.1.0
 
 * Correction de plusieurs noms de personnages.
 * Correction de problèmes de noms dans les dialogues.
-* Harmonisation de plusieurs appellations de personnages afin d'améliorer la cohérence de la traduction.
+* Harmonisation de plusieurs appellations de personnages.
 
 ---
 
@@ -121,7 +132,7 @@ En cours pour la prochaine version 1.1.0
 
 ### ✨ Ajouts
 
-* Ajout des noms qui étaient absents lors de l'augmentation des relations.
+* Ajout des noms absents lors de l'augmentation des relations.
 
 ### 🛠️ Corrections
 
