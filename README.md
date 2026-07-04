@@ -1,13 +1,14 @@
 # 🇫🇷 Chrono Ark - Traduction Française
 
-## 🆕 Dernière mise à jour — Version 1.1.1 (04/07/2026)
+## 🆕 Dernière mise à jour — Version 1.1.2 (04/07/2026)
 
 ### 🛠️ Corrections
 
-* Refonte de nombreux noms de compétences.
-* Renommage de nombreuses techniques, attaques, défenses et pouvoirs.
-* Harmonisation de la terminologie de la traduction.
-* Correction de plusieurs formulations et incohérences.
+* Correction de plusieurs dialogues.
+* Reformulation de nombreuses descriptions.
+* Amélioration de plusieurs textes de l'interface.
+* Renommage de plusieurs attaques et compétences.
+* Diverses corrections mineures et améliorations de la traduction.
 
 ---
 
@@ -46,6 +47,29 @@ Je vous souhaite à toutes et à tous un excellent jeu !
 — **Linux.DeMaestri**
 
 # 📜 Historique des versions
+
+---
+
+## Version 1.1.2 (04/07/2026)
+
+### 🛠️ Corrections
+
+* Correction de plusieurs dialogues.
+* Reformulation de nombreuses descriptions.
+* Amélioration de plusieurs textes de l'interface.
+* Renommage de plusieurs attaques et compétences.
+* Diverses corrections mineures et améliorations de la traduction.
+
+---
+
+## Version 1.1.1 (04/07/2026)
+
+### 🛠️ Corrections
+
+* Refonte de nombreux noms de compétences.
+* Renommage de nombreuses techniques, attaques, défenses et pouvoirs.
+* Harmonisation de la terminologie de la traduction.
+* Correction de plusieurs formulations et incohérences.
 
 ---
 
