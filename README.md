@@ -1,14 +1,18 @@
 # 🇫🇷 Chrono Ark - Traduction Française
 
-## 🆕 Dernière mise à jour — Version 1.1.2 (04/07/2026)
+## 🆕 Dernière mise à jour — Version 1.1.3 (05/07/2026)
+
+### 🎨 Améliorations visuelles
+
+* Ajout de couleurs sur de nombreux éléments afin d'améliorer la lisibilité de l'interface.
+* Mise en couleur des objets, reliques, buffs, compétences et autres éléments importants pour une identification plus rapide.
 
 ### 🛠️ Corrections
 
-* Correction de plusieurs dialogues.
-* Reformulation de nombreuses descriptions.
-* Amélioration de plusieurs textes de l'interface.
-* Renommage de plusieurs attaques et compétences.
-* Diverses corrections mineures et améliorations de la traduction.
+* Renommage de plusieurs buffs afin de les rendre plus clairs et plus agréables à lire.
+* Harmonisation de nombreux noms et descriptions.
+* Divers ajustements mineurs de la traduction.
+
 
 ---
 
@@ -49,6 +53,20 @@ Je vous souhaite à toutes et à tous un excellent jeu !
 # 📜 Historique des versions
 
 ---
+
+## Version 1.1.3 (05/07/2026)
+
+### 🎨 Améliorations visuelles
+
+* Ajout de couleurs sur de nombreux éléments afin d'améliorer la lisibilité de l'interface.
+* Mise en couleur des objets, reliques, compétences et autres éléments importants pour une meilleure identification.
+
+### 🛠️ Corrections
+
+* Renommage de plusieurs buffs afin de les rendre plus clairs et plus agréables à lire.
+* Amélioration de la cohérence et de la lisibilité de nombreux effets et descriptions.
+* Divers ajustements mineurs de la traduction.
+
 
 ## Version 1.1.2 (04/07/2026)
 
