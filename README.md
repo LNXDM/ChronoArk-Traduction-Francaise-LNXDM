@@ -1,6 +1,6 @@
 # 🇫🇷 Chrono Ark - Traduction Française
 
-## 🆕 Dernière mise à jour — Version 1.1.4 (05/07/2026)
+## 🆕 Dernière mise à jour — Version 1.1.4+ (05/07/2026)
 
 ### 🛠️ Corrections
 
