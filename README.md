@@ -1,18 +1,12 @@
 # 🇫🇷 Chrono Ark - Traduction Française
 
-## 🆕 Dernière mise à jour — Version 1.1.3 (05/07/2026)
-
-### 🎨 Améliorations visuelles
-
-* Ajout de couleurs sur de nombreux éléments afin d'améliorer la lisibilité de l'interface.
-* Mise en couleur des objets, reliques, buffs, compétences et autres éléments importants pour une identification plus rapide.
+## 🆕 Dernière mise à jour — Version 1.1.4 (05/07/2026)
 
 ### 🛠️ Corrections
 
-* Renommage de plusieurs buffs afin de les rendre plus clairs et plus agréables à lire.
-* Harmonisation de nombreux noms et descriptions.
-* Divers ajustements mineurs de la traduction.
-
+* Correction de plusieurs erreurs dans les dialogues qui pouvaient provoquer le retour inattendu de certains textes en anglais au cours de l'histoire.
+* Correction de plusieurs anomalies dans les fichiers de dialogues afin d'assurer une progression entièrement en français.
+* Amélioration de la stabilité de la traduction durant les séquences de l'histoire.
 
 ---
 
@@ -40,7 +34,7 @@ ChronoArk_Data/StreamingAssets/
 
 ## ⚠️ Important
 
-Cette traduction est un projet réalisé par une fan et est régulièrement améliorée. Si vous rencontrez des erreurs, des fautes ou des textes encore en anglais, n'hésitez pas à les signaler.
+Cette traduction est un projet réalisée par une fan et est régulièrement améliorée. Si vous rencontrez des erreurs, des fautes ou des textes encore en anglais, n'hésitez pas à les signaler.
 
 ## ❤️ Remerciements
 
@@ -51,6 +45,16 @@ Je vous souhaite à toutes et à tous un excellent jeu !
 — **Linux.DeMaestri**
 
 # 📜 Historique des versions
+
+---
+
+## Version 1.1.4 (05/07/2026)
+
+### 🛠️ Corrections
+
+* Correction de plusieurs erreurs dans les dialogues qui pouvaient provoquer le retour inattendu de certains textes en anglais au cours de l'histoire.
+* Correction de plusieurs anomalies dans les fichiers de dialogues afin d'assurer une progression entièrement en français.
+* Amélioration de la stabilité de la traduction durant les séquences de l'histoire.
 
 ---
 
@@ -67,6 +71,7 @@ Je vous souhaite à toutes et à tous un excellent jeu !
 * Amélioration de la cohérence et de la lisibilité de nombreux effets et descriptions.
 * Divers ajustements mineurs de la traduction.
 
+---
 
 ## Version 1.1.2 (04/07/2026)
 
@@ -131,12 +136,12 @@ Je vous souhaite à toutes et à tous un excellent jeu !
 
 * Correction importante de nombreux dialogues.
 
-En cours pour la prochaine version 1.1.0
+### 🚧 En cours pour la version 1.1.0
 
 * Révision complète des fichiers de traduction.
 * Correction d'anomalies causées par le script de traduction automatisé.
 * Comparaison approfondie entre les fichiers originaux et les fichiers traduits afin d'améliorer la fidélité des textes.
-* Grande refonte en cours de l'ensemble des fichiers pour améliorer la qualité globale de la traduction.
+* Grande refonte de l'ensemble des fichiers afin d'améliorer la qualité globale de la traduction.
 
 ---
 
